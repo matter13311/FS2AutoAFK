@@ -8,10 +8,10 @@ If it finds this on your screen, it will move your cursor to the picture, and th
 
 
 Disclaimer:
-The program will only scan your primary monitor. So if you have two monitors, make sure the game is on the primary monitor.
-If the program can't find the ready button or start button, try changing your game resolution to something different.
-Don't spam click the turn on/ turn off button when it seems to be frozen. 
-Because the program will control your cursor and execute left clicks for you, some anti-virus will think this as a virus. However,
+1. The program will only scan your primary monitor. So if you have two monitors, make sure the game is on the primary monitor.
+1. If the program can't find the ready button or start button, try changing your game resolution to something different.
+1. Don't spam click the turn on/ turn off button when it seems to be frozen. 
+1. Because the program will control your cursor and execute left clicks for you, some anti-virus will think this as a virus. However,
 the source code for the program can be viewed at my github, where you can try to execute the code yourself with python.
 
 https://github.com/matter13311/FS2AutoAFK
