@@ -14,7 +14,8 @@ Disclaimer:
 1. Because the program will control your cursor and execute left clicks for you, some anti-virus will think this as a virus. However,
 the source code for the program can be viewed at my github, where you can try to execute the code yourself with python.
 
-https://github.com/matter13311/FS2AutoAFK
+To build the program, simply download app.py and also everything inside the images folder. There is no need to download any of the READY or START png images. 
+After that, just execute python app.py to run.
 
 
 - matt1331
