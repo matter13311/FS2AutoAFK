@@ -18,4 +18,8 @@ To build the program, simply download app.py and also everything inside the imag
 After that, just execute python app.py to run.
 
 
+###Things to add in the future
+1. Make it so that users can add their own custom images for the program to scan for
+
+
 - matt1331
